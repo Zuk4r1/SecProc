@@ -1,4 +1,4 @@
-# ⚡ SecProc Escáner de Procesos con VirusTotal y Detección de Rutas Sospechosas
+# 🛡️SecProc Escáner de Procesos con VirusTotal y Detección de Rutas Sospechosas
 
 Este script en **Python** para Windows permite analizar todos los procesos en ejecución, verificar su firma digital, calcular su hash SHA256, consultar el estado del archivo en **VirusTotal**, y marcar aquellos que se ejecutan desde rutas inusuales.
 
