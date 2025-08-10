@@ -15,8 +15,8 @@ print(r"""
  \___ \ / _ \| |    | |_) | '__/ _ \| | 
   ___) |  __/| |    |  __/| | | (_) | |
  |____/ \___|\____| |_|   |_|  \___/ \____|                                      
-   SecProc - Escáner de Procesos con VirusTotal
-	Autor: 🐉@Zuk4r1
+ SecProc - Escáner de Procesos con VirusTotal
+	        🐉Autor: @Zuk4r1
 """)
 
 def get_sha256(file_path):
@@ -186,3 +186,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
