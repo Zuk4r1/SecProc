@@ -8,7 +8,7 @@ Este script en **Python** para Windows permite analizar todos los procesos en ej
 - Consulta en **VirusTotal** (requiere API Key).
 - Verificación de **firma digital**.
 - Detección de procesos ejecutándose desde rutas sospechosas (`Temp`, `AppData\Local`, `AppData\Roaming`).
-- Generación de un **reporte detallado** (`reporte_procesos.txt`).
+- Generación de un **reporte detallado** (`resultados.txt`).
 
 ## 📦 Requisitos
 - **Windows 10/11**
