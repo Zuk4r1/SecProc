@@ -41,7 +41,7 @@ Puedes obtener una API Key gratuita en: [virustotal](https://www.virustotal.com/
 4. Esperar a que finalice el análisis.
 El reporte se guardará como reporte_procesos.txt en la misma carpeta.
 
-# 📤 Ejemplo de salida
+## 📤 Ejemplo de salida
 
 ```bash
 PID    Nombre                    Ruta                                                         Firmado    Inusual      VT
@@ -49,27 +49,27 @@ PID    Nombre                    Ruta                                           
 4321   malware.exe               C:\Users\user\AppData\Local\Temp\malware.exe                 No         Sí          15/72 motores detectaron amenaza
 ```
 
-# 🚀 Se aceptan contribuciones para mantener este proyecto
+## 🚀 Se aceptan contribuciones para mantener este proyecto
 
 Se aceptan mejoras de código, contribuciones, sugerencias y donaciones para hacer que **SecProc** sea más efectiva y sostenible.👇
 <br />
 <a href="https://www.paypal.com/paypalme/babiloniaetica"><img title="Donations For Projects" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </div>
 
-# 📝 Notas
+## 📝 Notas
 * El script solo funciona en Windows.
 
 * Una API Key gratuita de VirusTotal tiene un límite de consultas por minuto.
 
 * Los resultados de VirusTotal dependen de la base de datos pública y pueden variar.
 
-# ⚖️ Licencia
+## ⚖️ Licencia
 [MIT License](https://github.com/Zuk4r1/SecProc/blob/main/LICENSE). Puedes usar, modificar y distribuir este script libremente, citando la autoría original.
 
-# ✍️ Autor
+## ✍️ Autor
 
 Creado con ❤️ por [@Zuk4r1](https://github.com/Zuk4r1), pentester con conocimiento en hacking forense y análisis de comportamiento de malware.
 
-# 🎯 Propósito 
+## 🎯 Propósito 
 
 Herramienta de análisis y auditoría de procesos en Windows.
