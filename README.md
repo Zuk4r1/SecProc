@@ -49,12 +49,11 @@ PID    Nombre                    Ruta                                           
 4321   malware.exe               C:\Users\user\AppData\Local\Temp\malware.exe                 No         Sí          15/72 motores detectaron amenaza
 ```
 
-## 🚀 Se aceptan contribuciones para mantener este proyecto
+## ☕ Apoya mis proyectos
+Si te resultan útiles mis herramientas, considera dar una ⭐ en GitHub o invitarme un café. ¡Gracias!
 
-Se aceptan mejoras de código, contribuciones, sugerencias y donaciones para hacer que **SecProc** sea más efectiva y sostenible.👇
-<br />
-<a href="https://www.paypal.com/paypalme/babiloniaetica"><img title="Donations For Projects" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-</div>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/investigacq)  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/babiloniaetica)
+
 
 ## 📝 Notas
 * El script solo funciona en Windows.
